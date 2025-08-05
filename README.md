@@ -61,7 +61,8 @@ A **Random Forest Classifier** was trained using:
 
 1. Clone the repository  
    ```bash
-   git 
+   git clone https://github.com/shehanaz070/fraud-detection-ml.git
+
    cd fraud-detection-ml
 
 2.pip install -r requirements.txt
